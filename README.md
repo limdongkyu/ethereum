@@ -4,7 +4,7 @@ Deep learning learned by Dongkyu
 1. Hypothesize
 2. Preprocess Data
 3. Modeling
-4. Training
+4. Training/Verification
 5. Testing
 
 3~5 Repeat
