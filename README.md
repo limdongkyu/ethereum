@@ -7,7 +7,5 @@ Deep learning learned by Dongkyu
 4. Training/Verification
 5. Testing
 
-3~5 Repeat
-
-Right?
+1~5 Infinite repetition
 
